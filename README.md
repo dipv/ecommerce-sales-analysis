@@ -117,24 +117,24 @@ GitHub — Portfolio Publishing
 ## 📊 Screenshots
 
 ### KPI Cards
-![KPI Cards](images/Cards.png)
+![KPI Cards](https://github.com/dipv/ecommerce-sales-analysis/blob/46a0bd212a7d4a43dd1e0139bce13677a7b19e16/Screenshot/Cards.png)
 
 ### Monthly Revenue
-![Monthly Revenue](images/Monthly_Revenue.png)
+![Monthly Revenue](https://github.com/dipv/ecommerce-sales-analysis/blob/46a0bd212a7d4a43dd1e0139bce13677a7b19e16/Screenshot/Monthly_Revenue.png)
 
 ### Category Sales
-![Category Sales](images/Category_sales.png)
+![Category Sales](https://github.com/dipv/ecommerce-sales-analysis/blob/46a0bd212a7d4a43dd1e0139bce13677a7b19e16/Screenshot/Category_sales.png)
 
 ### Revenue by State
-![Revenue by State](images/State_Revenue.png)
+![Revenue by State](https://github.com/dipv/ecommerce-sales-analysis/blob/46a0bd212a7d4a43dd1e0139bce13677a7b19e16/Screenshot/State_Revenue.png)
 
 ### Excel Dashboard
-![Excel Dashboard](images/Dashboard.png)
+![Excel Dashboard](https://github.com/dipv/ecommerce-sales-analysis/blob/46a0bd212a7d4a43dd1e0139bce13677a7b19e16/Screenshot/Dashboard.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/PowerBI%20Dashboard.png)
+![Power BI Dashboard](https://github.com/dipv/ecommerce-sales-analysis/blob/46a0bd212a7d4a43dd1e0139bce13677a7b19e16/Screenshot/PowerBI%20Dashboard.png)
 
-> 📥 Power BI file available: [Download .pbix](https://drive.google.com/file/d/1QOWX9pt1_PezmDf8QdXsgeomWHXN_SWC/view?usp=sharinghttps://drive.google.com/file/d/1QOWX9pt1_PezmDf8QdXsgeomWHXN_SWC/view?usp=sharinghttps://drive.google.com/file/d/1QOWX9pt1_PezmDf8QdXsgeomWHXN_SWC/view?usp=sharing)
+> 📥 Power BI file available: [Download .pbix](https://drive.google.com/file/d/1QOWX9pt1_PezmDf8QdXsgeomWHXN_SWC/view?usp=sharing)
 
 ---
 
