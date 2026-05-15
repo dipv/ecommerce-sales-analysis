@@ -215,7 +215,7 @@ psql -U postgres -d ecommerce_analysis -f sql/05_analytical_queries.sql
 Open `excel/ecommerce_analysis.xlsx` in Microsoft Excel 2016 or later.
 
 ### 6. Open Power BI dashboard
-Open `powerbi/ecommerce_dashboard.pbix` in Power BI Desktop (free).
+Open `powerbi/ecommerce_dashboard.pbix` in Power BI Desktop 
 
 ---
 
